@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31423.177
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveChunked", "RemoveChunked.csproj", "{E79068D3-AA80-474D-A540-425FAC08D955}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E79068D3-AA80-474D-A540-425FAC08D955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79068D3-AA80-474D-A540-425FAC08D955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79068D3-AA80-474D-A540-425FAC08D955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79068D3-AA80-474D-A540-425FAC08D955}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFDE3B78-A0CA-4E52-997C-8BDEA384660E}
+	EndGlobalSection
+EndGlobal
